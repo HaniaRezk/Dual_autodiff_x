@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dual_autodiff_x
+Version: 0.0.0
+Summary: A Python package that performs automatic differentiation using dual numbers
+Author-email: Hania Rezk <hhmmer2@cam.ac.uk>
+Keywords: dual numbers,automatic differentiation
+Requires-Python: >=3.9
+Requires-Dist: numpy>=1.23
